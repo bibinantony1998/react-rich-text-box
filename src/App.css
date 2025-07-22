@@ -1,0 +1,31 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.rich-text-editor {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.toolbar {
+  margin-bottom: 10px;
+}
+
+.align-left {
+  text-align: left;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.toolbar button {
+  margin-right: 5px;
+}
